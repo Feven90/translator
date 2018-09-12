@@ -1,0 +1,39 @@
+ body {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    width: 700px;
+    height: 400px;
+}
+.button_class {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 10px;
+}
+h1 {
+   text-align: center;
+}
+p{
+    color: fff;
+}
+button {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+button {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
